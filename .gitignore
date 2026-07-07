@@ -17,6 +17,7 @@
 .vscode/
 .idea/
 log/
+presets/cartagra/out/
 lucksystem
 main
 pak/pak_test.go
